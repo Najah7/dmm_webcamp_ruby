@@ -9,7 +9,7 @@
     - Integer
     - Float
     - Boolean
-    - nil
+    - nil: 無効な値
 - 型変化で使うメソッド
     - to_s：to string（数値→文字列）
     - to_i：to integer（文字列→数値）
