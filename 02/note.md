@@ -1,0 +1,16 @@
+# 2章で扱った内容
+- rubyの環境構築
+    - rubyの代表的なpakage manager（自分で追記（教材に記述なし））
+        - rbenv
+        - rvm
+- putsメソッド: 引数を出力するメソッド
+- 型
+    - String
+    - Integer
+    - Float
+    - Boolean
+    - nil
+- 型変化で使うメソッド
+    - to_s：to string（数値→文字列）
+    - to_i：to integer（文字列→数値）
+    - to_f：to float（文字列→小数点数）
