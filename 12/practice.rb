@@ -1,0 +1,2 @@
+sym = :symbol
+puts sym
